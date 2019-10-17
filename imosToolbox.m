@@ -35,7 +35,7 @@ function imosToolbox(auto, varargin)
 % along with this program.
 % If not, see <https://www.gnu.org/licenses/gpl-3.0.en.html>.
 %
-
+%testz = 10;
 % Set current toolbox version
 toolboxVersion = ['2.5.42 - ' computer];
 
